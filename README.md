@@ -1,4 +1,4 @@
-# AI-Learning
+# AI Learning
 
 This spring semester, I plan to:
 - learn python and use numpy
